@@ -2,6 +2,10 @@
 
 Ever wondered how small you can make a LLM? Look no further, you have found *the* smol brain model.
 
+## Resources
+
+[SLIDES](https://docs.google.com/presentation/d/1w9VSNuiWNov-8j-QchyjY4Eo4sf41LF7LOAQjNMaCaU/edit?usp=sharing)
+
 ## Usage
 
 1. Clone this repository
