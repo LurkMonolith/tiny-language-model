@@ -1,2 +1,12 @@
 data
+
 .vscode
+
+# venv
+tinylm
+Include
+Lib
+Scripts
+pyvenv.cfg
+
+# Files

@@ -13,7 +13,7 @@ Ever wondered how small you can make a LLM? Look no further, you have found *the
 1. Setup the Python environment with [venv](https://docs.python.org/3/library/venv.html#creating-virtual-environments)
 
     ```
-    python3.12 -m venv tinylm
+    py -3.12 -m venv tinylm
     ```
 
 1. Install the packages
